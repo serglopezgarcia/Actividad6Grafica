@@ -1,0 +1,41 @@
+100 Nx
+200 Sx
+300 Zx
+350z
+370z
+Almera
+Almera Tino
+Bluebird
+Cabstar
+Cabstar E
+Camion
+Cube
+Evalia
+Gtr
+Juke
+Leaf
+Maxima
+Maxima Qx
+Micra
+Murano
+Navara
+Note
+Np300 Pick Up
+Pathfinder
+Patrol
+Patrol Gr
+Pickup
+Pixo
+Prairie
+Primera
+Qashqai
+Qashqai2
+Serena
+Sunny
+Terrano
+Terrano Ii
+Tiida
+Trade
+Vanette
+Vanette Cargo
+Xtrail

@@ -1,0 +1,39 @@
+500
+600
+500c
+500l
+Argenta
+Barchetta
+Brava
+Bravo
+Cinquecento
+Coupe
+Croma
+Doblo
+Doblo Cargo
+Ducato
+Fiorino
+Freemont
+Grande Punto
+Idea
+Linea
+Marea
+Multipla
+Palio Weekend
+Panda
+Panda Classic
+Punto
+Punto Classic
+Punto Evo
+Qubo
+Regata
+Ritmo
+Sedici
+Seicento
+Stilo
+Strada
+Talento
+Tempra
+Tipo
+Ulysse
+Uno
